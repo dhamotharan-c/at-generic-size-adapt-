@@ -45,4 +45,4 @@ Clear error messages are displayed to the user.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). (If you have a license file)
+This project is licensed under the [MIT License](LICENSE.md).
